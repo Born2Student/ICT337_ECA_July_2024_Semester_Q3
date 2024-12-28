@@ -1,4 +1,6 @@
-# ICT337_ECA_July_2024_Semester_Q3
+# ICT337 - Big Data Computing in the Cloud
+
+# ICT337 End-of-Course Assessment (ECA01) - July Semester 2024 Question 3 - July Semester 2024
 
 ## Question 3
 In your local machine’s Spark setup, develop a PySpark program using PySpark RDD APIs to perform the following tasks. 
